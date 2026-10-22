@@ -3,3 +3,6 @@ streamlit
 pandas
 openpyxl
 plotly
+numpy
+matplotlib
+seaborn
